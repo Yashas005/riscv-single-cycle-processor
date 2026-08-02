@@ -47,10 +47,10 @@ riscv-single-cycle-processor/
 │   ├── rom.v
 │   └── riscv_top.v
 │
-├── tb/
+├── sim/
 │   └── tb_riscv.v
 │
-├── docs/
+├── results/
 │   ├── rtl_schematic.png
 │   └── waveform.png
 │
