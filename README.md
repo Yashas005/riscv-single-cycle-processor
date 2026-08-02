@@ -81,13 +81,14 @@ Expected Register Values:
 
 ## RTL Schematic
 
-*(Add rtl_schematic.png here after uploading it.)*
+<img width="1092" height="612" alt="image" src="https://github.com/user-attachments/assets/a417fcda-94aa-4600-a708-3fb0f6cd55c8" />
+
 
 ---
 
 ## Simulation Waveform
 
-*(Add waveform.png here after uploading it.)*
+<img width="1615" height="907" alt="Screenshot 2026-08-02 131155" src="https://github.com/user-attachments/assets/6c34fd33-8e4b-4cc3-be02-e6408daf51e3" />
 
 ---
 
